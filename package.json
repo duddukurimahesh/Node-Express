@@ -1,0 +1,24 @@
+{
+  "name": "NodeExpress",
+  "version": "1.0.0",
+  "description": "This is project description.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Mahesh",
+  "license": "ISC",
+  "dependencies": {
+    "addressparser": "1.0.1",
+    "async": "2.0.1",
+    "express": "4.16.3",
+    "joi": "9.0.4",
+    "mongoose": "5.2.12",
+    "mongoose-autopopulate": "0.4.0"
+  },
+  "devDependencies": {}
+}
